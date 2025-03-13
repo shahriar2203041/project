@@ -1,0 +1,16 @@
+✨ Successfully Completed Our Basic Electronics-I Course! ✨
+
+We are excited to share our latest project – Design and Implememtation of IR Proximal Sensor! 🚀
+
+This project focuses on detecting objects using an IR transmitter and receiver circuit, allowing us to track and measure object movement with precision. By integrating an ESP32 microcontroller, we enhanced the system’s capabilities, enabling real-time counting of passing objects and even RPM measurement.
+
+🔹 Key Features & Applications:
+
+✔ Object Detection – Detects any object approaching the IR sensor.
+✔ Counting Mechanism – Tracks the number of objects passing through the sensor.
+✔ RPM Measurement – Calculates rotational speed in various mechanical applications.
+✔ Versatile Applications – Used in robotics, automation, security systems, and medical devices.
+
+The use of IR sensors in modern technology is vast, from medical diagnostics to industrial automation. This experiment gave us hands-on experience in circuit design, sensor calibration, and data collection.
+
+🔬 Special thanks to my teammates MD RABBY HOSSAIN, Abdul Awal, Abrar Faiyaj for their dedication and effort in this project, and to our course instructor M.d Tawabur Rahman, PhD and Md Rejvi Kaysir for their invaluable guidance!
